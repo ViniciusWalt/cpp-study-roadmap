@@ -1,0 +1,30 @@
+# Arquivos compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Diretórios de build
+build/
+bin/
+obj/
+out/
+
+# IDEs
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.filters
+
+# Temporários
+*.tmp
+*.log
+*.swp
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
